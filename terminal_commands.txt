@@ -1,0 +1,10 @@
+pwd - to display the path of current working directory
+ls - list the files and folders of current directory
+echo - to print something on terminal
+touch - to create a file
+mkdir - to create the folders
+rmdir - to remove the folders
+cd - to change the working directory
+cd .. - to go one directory backward
+rm - to remove a file
+clear - to clear the terminal
